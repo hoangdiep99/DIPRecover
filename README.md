@@ -82,6 +82,12 @@
 - **Báo cáo quét trực tiếp**: [**Xem Kết Quả Trên VirusTotal (0/68 Antivirus Báo Sạch 100%)**](https://www.virustotal.com/gui/file/c0bc5ccc8beffe875c22f3c52c6f9b919d8d06c655a0e39e67e883f4018f3e1f?nocache=1)
 - Toàn bộ **68 hãng bảo mật quốc tế hàng đầu** (*Microsoft Defender, Kaspersky, BitDefender, Avast, AVG, Bkav Pro, CrowdStrike Falcon, ESET-NOD32, Fortinet, Google, McAfee, Sophos, TrendMicro...*) đều chứng nhận bộ cài đặt sạch 100%, không chứa mã độc hay phần mềm quảng cáo, anh em hoàn toàn yên tâm tải về sử dụng.
 
+<p align="center">
+  <a href="https://www.virustotal.com/gui/file/c0bc5ccc8beffe875c22f3c52c6f9b919d8d06c655a0e39e67e883f4018f3e1f?nocache=1" target="_blank">
+    <img src="assets/virustotal_proof.jpg" alt="Kết Quả Kiểm Định An Toàn VirusTotal 0/68" width="680" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 Thông Tin Tác Giả & Ủng Hộ Cà Phê
