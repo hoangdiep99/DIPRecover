@@ -4,19 +4,44 @@
 
 **Phần mềm Khôi phục Ảnh, Tệp RAW Máy Ảnh & Phục chế Video MP4/MOV 4K Chuyên Sâu cho Windows & macOS**
 
-[![Phiên bản](https://img.shields.io/badge/Version-v4.0.0_Pro-2563EB?style=for-the-badge)](https://github.com/hoangdiep99/DIPRecover/releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-0EA5E9?style=for-the-badge&logo=windows)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe)
-[![macOS](https://img.shields.io/badge/macOS-Apple_Silicon_M1--M4-111827?style=for-the-badge&logo=apple)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-macOS-v4.0.0.dmg)
+[![Phiên bản](https://img.shields.io/badge/Phiên_Bản-v4.0.0_Pro-2563EB?style=for-the-badge)](https://github.com/hoangdiep99/DIPRecover/releases/latest)
+[![Tổng Lượt Tải](https://img.shields.io/github/downloads/hoangdiep99/DIPRecover/total?style=for-the-badge&logo=github&logoColor=white&color=059669&label=T%E1%BB%95ng%20L%C6%B0%E1%BB%A3t%20T%E1%BA%A3i)](https://github.com/hoangdiep99/DIPRecover/releases)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F68_S%E1%BA%A1ch_100%25-10B981?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/c0bc5ccc8beffe875c22f3c52c6f9b919d8d06c655a0e39e67e883f4018f3e1f?nocache=1)
 [![Cơ chế](https://img.shields.io/badge/An_Toàn-100%25_Read--Only-10B981?style=for-the-badge)](https://github.com/hoangdiep99/DIPRecover)
 [![Tác giả](https://img.shields.io/badge/Tác_Giả-Hoàng_Điệp-F59E0B?style=for-the-badge)](https://www.facebook.com/HoangdiepLN)
 
 <br/>
 
-### 🪟 [TẢI BỘ CÀI WINDOWS — `DIPRecover-Setup-v4.0.0.exe` (69.4 MB)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe)
-### 🍎 [TẢI BỘ CÀI MACOS — `DIPRecover-macOS-v4.0.0.dmg` (87.6 MB)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-macOS-v4.0.0.dmg)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🪟 Bản Cài Đặt Windows</h3>
+      <p><b>Windows 10 / 11 (64-bit)</b> • Bộ Cài Inno Setup 6 Tiếng Việt</p>
+      <a href="https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe">
+        <img src="https://img.shields.io/badge/TẢI_BỘ_CÀI_WINDOWS-69.4_MB-0284C7?style=for-the-badge&logo=windows&logoColor=white" alt="Tải Bộ Cài Windows" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/hoangdiep99/DIPRecover/releases/tag/v4.0.0">
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhoangdiep99%2FDIPRecover%2Freleases%2Ftags%2Fv4.0.0&query=%24.assets%5B1%5D.download_count&style=for-the-badge&logo=windows&logoColor=white&label=Lượt%20Tải%20Windows&color=0284C7" alt="Lượt tải Windows" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🍎 Bản Cài Đặt macOS</h3>
+      <p><b>Apple Silicon (M1-M4) & Intel</b> • Bộ Cài Kéo-Thả .DMG</p>
+      <a href="https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-macOS-v4.0.0.dmg">
+        <img src="https://img.shields.io/badge/TẢI_BỘ_CÀI_MACOS-87.6_MB-111827?style=for-the-badge&logo=apple&logoColor=white" alt="Tải Bộ Cài macOS" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/hoangdiep99/DIPRecover/releases/tag/v4.0.0">
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhoangdiep99%2FDIPRecover%2Freleases%2Ftags%2Fv4.0.0&query=%24.assets%5B0%5D.download_count&style=for-the-badge&logo=apple&logoColor=white&label=Lượt%20Tải%20macOS&color=111827" alt="Lượt tải macOS" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-*Đóng gói độc lập 100% cho cả Windows 10/11 & macOS (MacBook M1/M2/M3/M4) — Không cần cài thêm Python hay thư viện phụ.*
+<p align="center">
+  <i>⚡ Đóng gói độc lập 100% cho cả Windows 10/11 & macOS (MacBook M1/M2/M3/M4) — Không cần cài thêm Python hay thư viện phụ.</i>
+</p>
 
 </div>
 
