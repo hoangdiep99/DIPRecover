@@ -2,18 +2,20 @@
 
 # 🛡️ DIPRecover Pro v4.0 (64-bit SIMD)
 
-**Phần mềm Khôi phục Ảnh, Tệp RAW Máy Ảnh & Phục chế Video MP4/MOV 4K Chuyên Sâu cho Windows**
+**Phần mềm Khôi phục Ảnh, Tệp RAW Máy Ảnh & Phục chế Video MP4/MOV 4K Chuyên Sâu cho Windows & macOS**
 
 [![Phiên bản](https://img.shields.io/badge/Version-v4.0.0_Pro-2563EB?style=for-the-badge)](https://github.com/hoangdiep99/DIPRecover/releases/latest)
-[![Hệ điều hành](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-0EA5E9?style=for-the-badge&logo=windows)](https://github.com/hoangdiep99/DIPRecover/releases/latest)
+[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-0EA5E9?style=for-the-badge&logo=windows)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe)
+[![macOS](https://img.shields.io/badge/macOS-Apple_Silicon_M1--M4-111827?style=for-the-badge&logo=apple)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-macOS-v4.0.0.dmg)
 [![Cơ chế](https://img.shields.io/badge/An_Toàn-100%25_Read--Only-10B981?style=for-the-badge)](https://github.com/hoangdiep99/DIPRecover)
 [![Tác giả](https://img.shields.io/badge/Tác_Giả-Hoàng_Điệp-F59E0B?style=for-the-badge)](https://www.facebook.com/HoangdiepLN)
 
 <br/>
 
-### ⬇️ [TẢI XUỐNG BỘ CÀI ĐẶT CHÍNH THỨC — `DIPRecover-Setup-v4.0.0.exe` (69.4 MB)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe)
+### 🪟 [TẢI BỘ CÀI WINDOWS — `DIPRecover-Setup-v4.0.0.exe` (69.4 MB)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe)
+### 🍎 [TẢI BỘ CÀI MACOS — `DIPRecover-macOS-v4.0.0.dmg` (87.6 MB)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-macOS-v4.0.0.dmg)
 
-*Tự động tạo biểu tượng Desktop, Start Menu & hỗ trợ Gỡ cài đặt chuẩn Windows — Không cần cài thêm Python hay thư viện phụ.*
+*Đóng gói độc lập 100% cho cả Windows 10/11 & macOS (MacBook M1/M2/M3/M4) — Không cần cài thêm Python hay thư viện phụ.*
 
 </div>
 
@@ -55,16 +57,25 @@
 
 ## 🛠️ Hướng Dẫn Cài Đặt & Sử Dụng Nhanh
 
-1. Tải bộ cài đặt **[`DIPRecover-Setup-v4.0.0.exe`](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe)** và mở tệp lên.
-   - *Lưu ý*: Nếu Windows SmartScreen hiện thông báo bảo vệ cho phần mềm mới phát hành, hãy bấm **More info (Thêm thông tin)** → **Run anyway (Vẫn chạy)**.
-2. Bấm **CÀI ĐẶT NGAY** để hoàn tất trong vài giây.
-3. Khi mở **DIPRecover**, bấm **Yes** ở hộp thoại cấp quyền **Administrator (UAC)** để phần mềm được phép truy cập trực tiếp sector vật lý của thẻ nhớ SD / ổ cứng USB.
-4. **Nguyên tắc vàng khi cứu dữ liệu**: Luôn chọn **Thư mục lưu kết quả** nằm trên **ổ đĩa khác** với thẻ nhớ / phân vùng đang cần khôi phục (mặc định phần mềm tự động lưu an toàn ra `Desktop\DIPRecover_KetQua`).
+### 🪟 Trên Windows 10 / 11 (64-bit)
+1. Tải bộ cài đặt **[`DIPRecover-Setup-v4.0.0.exe`](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe)** và mở tệp lên (nếu Windows SmartScreen hỏi, chọn **More info** → **Run anyway**).
+2. Nhấn **Yes** cấp quyền Quản trị viên (UAC) → bấm **Cài đặt ngay** để cài vào `C:\Program Files\DIPRecover`.
 
-### Thông tin Kiểm định Tệp Cài Đặt (Checksum)
-- **Tên tệp**: `DIPRecover-Setup-v4.0.0.exe` (Giao diện **Dark Studio Tiếng Việt** • **Inno Setup 6**)
-- **Dung lượng**: `69.42 MB`
-- **SHA-256**: `c0bc5ccc8beffe875c22f3c52c6f9b919d8d06c655a0e39e67e883f4018f3e1f`
+### 🍎 Trên macOS (MacBook / iMac / Mac mini M1, M2, M3, M4)
+1. Tải bộ cài đặt **[`DIPRecover-macOS-v4.0.0.dmg`](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-macOS-v4.0.0.dmg)**, mở lên và kéo biểu tượng **`DIPRecover.app`** thả vào thư mục **`Applications`**.
+2. Nếu lần đầu mở macOS hiện cảnh báo bảo mật Gatekeeper (*Unidentified Developer / Damaged*), chỉ cần mở **Terminal** dán dòng lệnh sau và nhấn Enter (hoặc chạy tệp `Mo_Khoa_Neu_Mac_Chan.command` có sẵn trong `.dmg`):
+   ```bash
+   xattr -cr /Applications/DIPRecover.app
+   ```
+3. Khi cần quét trực tiếp thẻ nhớ SD / đầu đọc thẻ USB, nhấn nút **Mở quyền Admin** ở góc trái bên dưới giao diện để xác thực Touch ID / mật khẩu Mac.
+
+> **Nguyên tắc vàng khi cứu dữ liệu**: Luôn chọn **Thư mục lưu kết quả** nằm trên **ổ đĩa khác** với thẻ nhớ / phân vùng đang cần khôi phục (mặc định phần mềm tự động lưu an toàn ra `Desktop/DIPRecover_KetQua`).
+
+### Thông tin Kiểm định Tệp Cài Đặt (SHA-256 Checksum)
+- **Windows (`DIPRecover-Setup-v4.0.0.exe` — `69.42 MB`)**:
+  `c0bc5ccc8beffe875c22f3c52c6f9b919d8d06c655a0e39e67e883f4018f3e1f`
+- **macOS (`DIPRecover-macOS-v4.0.0.dmg` — `87.62 MB`)**:
+  `5ec8ab5cdb412150017d2ec1cd26c3eade71d41321a50d049cb5802c376c5f98`
 
 ---
 
