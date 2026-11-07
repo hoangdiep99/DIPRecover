@@ -64,7 +64,7 @@
 ### Thông tin Kiểm định Tệp Cài Đặt (Checksum)
 - **Tên tệp**: `DIPRecover-Setup-v4.0.0.exe` (Giao diện **Dark Studio Tiếng Việt** • **Inno Setup 6**)
 - **Dung lượng**: `69.42 MB`
-- **SHA-256**: `82ba30b9f4df97b8e4aba774b7069f9ef11a8e09cd48540a679941f682626382`
+- **SHA-256**: `c0bc5ccc8beffe875c22f3c52c6f9b919d8d06c655a0e39e67e883f4018f3e1f`
 
 ---
 
