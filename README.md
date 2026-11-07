@@ -22,7 +22,7 @@
       </a>
       <br/><br/>
       <a href="https://github.com/hoangdiep99/DIPRecover/releases/tag/v4.0.0">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhoangdiep99%2FDIPRecover%2Freleases%2Ftags%2Fv4.0.0&query=%24.assets%5B1%5D.download_count&style=for-the-badge&logo=windows&logoColor=white&label=Lượt%20Tải%20Windows&color=0284C7" alt="Lượt tải Windows" />
+        <img src="https://img.shields.io/github/downloads/hoangdiep99/DIPRecover/v4.0.0/DIPRecover-Setup-v4.0.0.exe?style=for-the-badge&label=L%C6%B0%E1%BB%A3t%20T%E1%BA%A3i%20Windows&color=0284C7&displayAssetName=false" alt="Lượt tải Windows" />
       </a>
     </td>
     <td align="center" width="50%" valign="top">
@@ -33,7 +33,7 @@
       </a>
       <br/><br/>
       <a href="https://github.com/hoangdiep99/DIPRecover/releases/tag/v4.0.0">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhoangdiep99%2FDIPRecover%2Freleases%2Ftags%2Fv4.0.0&query=%24.assets%5B0%5D.download_count&style=for-the-badge&logo=apple&logoColor=white&label=Lượt%20Tải%20macOS&color=111827" alt="Lượt tải macOS" />
+        <img src="https://img.shields.io/github/downloads/hoangdiep99/DIPRecover/v4.0.0/DIPRecover-macOS-v4.0.0.dmg?style=for-the-badge&logo=apple&logoColor=white&label=L%C6%B0%E1%BB%A3t%20T%E1%BA%A3i%20macOS&color=111827&displayAssetName=false" alt="Lượt tải macOS" />
       </a>
     </td>
   </tr>
