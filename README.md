@@ -11,7 +11,7 @@
 
 <br/>
 
-### ⬇️ [TẢI XUỐNG BỘ CÀI ĐẶT CHÍNH THỨC — `DIPRecover-Setup-v4.0.0.exe` (69.1 MB)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe)
+### ⬇️ [TẢI XUỐNG BỘ CÀI ĐẶT CHÍNH THỨC — `DIPRecover-Setup-v4.0.0.exe` (69.4 MB)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe)
 
 *Tự động tạo biểu tượng Desktop, Start Menu & hỗ trợ Gỡ cài đặt chuẩn Windows — Không cần cài thêm Python hay thư viện phụ.*
 
@@ -62,9 +62,9 @@
 4. **Nguyên tắc vàng khi cứu dữ liệu**: Luôn chọn **Thư mục lưu kết quả** nằm trên **ổ đĩa khác** với thẻ nhớ / phân vùng đang cần khôi phục (mặc định phần mềm tự động lưu an toàn ra `Desktop\DIPRecover_KetQua`).
 
 ### Thông tin Kiểm định Tệp Cài Đặt (Checksum)
-- **Tên tệp**: `DIPRecover-Setup-v4.0.0.exe` (Đóng gói chuẩn thương mại **Inno Setup 6**)
-- **Dung lượng**: `69.10 MB`
-- **SHA-256**: `93d84c2a9ad6e043e3dafdc4366e135936b62ac85026595ed45030a3b174a79a`
+- **Tên tệp**: `DIPRecover-Setup-v4.0.0.exe` (Giao diện **Dark Studio Tiếng Việt** • **Inno Setup 6**)
+- **Dung lượng**: `69.42 MB`
+- **SHA-256**: `82ba30b9f4df97b8e4aba774b7069f9ef11a8e09cd48540a679941f682626382`
 
 ---
 
