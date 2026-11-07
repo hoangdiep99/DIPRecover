@@ -7,6 +7,7 @@
 [![Phiên bản](https://img.shields.io/badge/Version-v4.0.0_Pro-2563EB?style=for-the-badge)](https://github.com/hoangdiep99/DIPRecover/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011%20(64--bit)-0EA5E9?style=for-the-badge&logo=windows)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.0.0.exe)
 [![macOS](https://img.shields.io/badge/macOS-Apple_Silicon_M1--M4-111827?style=for-the-badge&logo=apple)](https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-macOS-v4.0.0.dmg)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F68_S%E1%BA%A1ch_100%25-10B981?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/c0bc5ccc8beffe875c22f3c52c6f9b919d8d06c655a0e39e67e883f4018f3e1f?nocache=1)
 [![Cơ chế](https://img.shields.io/badge/An_Toàn-100%25_Read--Only-10B981?style=for-the-badge)](https://github.com/hoangdiep99/DIPRecover)
 [![Tác giả](https://img.shields.io/badge/Tác_Giả-Hoàng_Điệp-F59E0B?style=for-the-badge)](https://www.facebook.com/HoangdiepLN)
 
@@ -76,6 +77,10 @@
   `c0bc5ccc8beffe875c22f3c52c6f9b919d8d06c655a0e39e67e883f4018f3e1f`
 - **macOS (`DIPRecover-macOS-v4.0.0.dmg` — `87.62 MB`)**:
   `5ec8ab5cdb412150017d2ec1cd26c3eade71d41321a50d049cb5802c376c5f98`
+
+### 🛡️ Kiểm Định An Toàn Tuyệt Đối (VirusTotal 0/68 Sạch 100%)
+- **Báo cáo quét trực tiếp**: [**Xem Kết Quả Trên VirusTotal (0/68 Antivirus Báo Sạch 100%)**](https://www.virustotal.com/gui/file/c0bc5ccc8beffe875c22f3c52c6f9b919d8d06c655a0e39e67e883f4018f3e1f?nocache=1)
+- Toàn bộ **68 hãng bảo mật quốc tế hàng đầu** (*Microsoft Defender, Kaspersky, BitDefender, Avast, AVG, Bkav Pro, CrowdStrike Falcon, ESET-NOD32, Fortinet, Google, McAfee, Sophos, TrendMicro...*) đều chứng nhận bộ cài đặt sạch 100%, không chứa mã độc hay phần mềm quảng cáo, anh em hoàn toàn yên tâm tải về sử dụng.
 
 ---
 
