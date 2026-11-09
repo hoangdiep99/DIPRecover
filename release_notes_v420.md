@@ -18,12 +18,16 @@ Phiên bản **v4.2.0** mang đến giao diện chuyên sâu hoàn toàn mới v
      - 🗑️ **Thùng rác ($Recycle.Bin)**: Quét cả tệp đang có và tệp vừa bị dọn sạch (Empty Recycle Bin).
      - 🌐 **Toàn bộ ổ đĩa**: Quét toàn bộ tệp đã xóa trên phân vùng.
 
-3. **🛡️ Hộp Cảnh Báo An Toàn Chống Ghi Đè (Anti-Overwrite Protection)**:
-   - Tự động phát hiện khi thư mục lưu kết quả nằm trên **cùng ổ đĩa nguồn đang quét** (đặc biệt nguy hiểm trên ổ C:).
-   - Hiển thị hộp thông báo màu hổ phách cảnh báo nguy cơ các cụm dữ liệu mới ghi ra sẽ đè hỏng tệp đã xóa chưa kịp cứu, kèm nút đổi thư mục lưu sang ổ khác (D:, E:, USB...) an toàn tuyệt đối.
+3. **🛡️ Tự Động Yêu Cầu Quyền Administrator (`--uac-admin`)**:
+   - Tích hợp cờ UAC manifest chuẩn Windows: Khi mở ứng dụng, Windows sẽ tự động kích hoạt hộp thoại cấp quyền Admin (UAC) để đảm bảo đọc được toàn bộ Sector thô và bảng $MFT.
+   - Thêm hộp thoại thông minh nhắc nhở và tự khởi động lại khi phát hiện ứng dụng chưa chạy quyền Admin.
 
-4. **⚡ Tốc Độ Giải Mã MFT Siêu Tốc (1 - 3 Giây)**:
-   - Vẫn duy trì công nghệ đọc trực tiếp Sector thô của ổ đĩa, giải mã Multi-extent runs, `$ATTRIBUTE_LIST` (0x20) và Resident Data tức thì.
+4. **🔄 Tự Động Đồng Bộ Ổ Đĩa & Đường Dẫn (Auto-Sync Drive)**:
+   - Khi bấm **"Duyệt thư mục..."** hoặc gõ đường dẫn ở ổ khác (ví dụ từ `C:` duyệt sang `G:/`), phần mềm tự động nhận diện ký tự ổ đĩa và chuyển mục 1 sang đúng ổ đĩa đó (`mac (G:)`).
+   - Nhận diện thông minh: Khi chọn `G:/` hoặc `G:\`, phần mềm tự hiểu là quét toàn bộ ổ `G:`, không bị lọc rỗng.
+
+5. **⚡ Tốc Độ Giải Mã MFT Siêu Tốc (1 - 3 Giây)**:
+   - Đọc trực tiếp Sector thô của ổ đĩa, giải mã Multi-extent runs, `$ATTRIBUTE_LIST` (0x20) và Resident Data tức thì.
 
 ---
 
