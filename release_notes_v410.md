@@ -2,10 +2,12 @@
 
 Phiên bản **v4.1.0** mang đến bước tiến đột phá về công nghệ phục hồi dữ liệu hệ thống tệp NTFS cho Windows và mở rộng hỗ trợ toàn diện các định dạng văn phòng, kỹ thuật và tệp nén:
 
-### 🌟 Tính Năng Mới Nổi Bật:
+### 🌟 Tính Năng Mới & Tối Ưu Lõi MFT:
 1. **⚡ Chế độ Cứu Nhanh Thư Mục Đã Xóa ($MFT Undelete / Shift+Delete & Thùng Rác)**:
    - Đọc siêu tốc cấu trúc bảng danh bạ `$MFT` của phân vùng NTFS (ổ C:, D:) — Hoàn thành quét chỉ trong **2 đến 5 giây**!
    - Khôi phục nguyên vẹn các tệp vừa bị xóa vĩnh viễn bằng `Shift + Delete` hoặc vừa bị dọn sạch Thùng rác (`Empty Recycle Bin`).
+   - **Tối ưu Multi-extent Runs & `$ATTRIBUTE_LIST` (0x20)**: Quét sạch toàn bộ các đoạn `$MFT` phân mảnh trên ổ C: Windows 11 với giới hạn quét mở rộng lên đến 4GB (hơn 4 triệu bản ghi).
+   - **Giải mã ngược Thùng rác (`$I` -> `$R`)**: Tự động đọc siêu dữ liệu `$I` để lấy lại 100% tên tệp gốc và đường dẫn gốc ban đầu (thay vì tên mã `$Rxxxxxx`).
 2. **📁 Tái Tạo 100% Cây Thư Mục Gốc (`Folder Tree`)**:
    - Truy vết mã thư mục cha (`Parent Directory Record ID`), tự động phục hồi cấu trúc thư mục phân cấp ban đầu (Ví dụ: `Users\DiepPC\Desktop\DuAn\baocao.docx`).
    - Khi bấm Khôi phục, phần mềm tự tạo lại đúng cây thư mục đó trong thư mục lưu.
