@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🛡️ DIPRecover Pro v4.2 (64-bit SIMD)
+# 🛡️ DIPRecover Pro v4.3 (64-bit SIMD)
 
-**Phần mềm Cứu Nhanh Thư Mục ($MFT), Khôi phục Ảnh RAW & Phục chế Video MP4/MOV 4K cho Windows & macOS**
+**Phần mềm Khôi phục Ảnh RAW & Phục chế Video MP4/MOV 4K cho Windows & macOS**
 
-[![Phiên bản](https://img.shields.io/badge/Phiên_Bản-v4.2.0_Pro-2563EB?style=for-the-badge)](https://github.com/hoangdiep99/DIPRecover/releases/latest)
+[![Phiên bản](https://img.shields.io/badge/Phiên_Bản-v4.3.0_Pro-2563EB?style=for-the-badge)](https://github.com/hoangdiep99/DIPRecover/releases/latest)
 [![Tổng Lượt Tải](https://img.shields.io/github/downloads/hoangdiep99/DIPRecover/total?style=for-the-badge&logo=github&logoColor=white&color=059669&label=T%E1%BB%95ng%20L%C6%B0%E1%BB%A3t%20T%E1%BA%A3i)](https://github.com/hoangdiep99/DIPRecover/releases)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F68_S%E1%BA%A1ch_100%25-10B981?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/c0bc5ccc8beffe875c22f3c52c6f9b919d8d06c655a0e39e67e883f4018f3e1f?nocache=1)
 [![Cơ chế](https://img.shields.io/badge/An_Toàn-100%25_Read--Only-10B981?style=for-the-badge)](https://github.com/hoangdiep99/DIPRecover)
@@ -17,12 +17,12 @@
     <td align="center" width="50%" valign="top">
       <h3>🪟 Bản Cài Đặt Windows</h3>
       <p><b>Windows 10 / 11 (64-bit)</b> • Bộ Cài Inno Setup 6 Tiếng Việt</p>
-      <a href="https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.2.0.exe">
+      <a href="https://github.com/hoangdiep99/DIPRecover/releases/latest/download/DIPRecover-Setup-v4.3.0.exe">
         <img src="https://img.shields.io/badge/TẢI_BỘ_CÀI_WINDOWS-69.5_MB-0284C7?style=for-the-badge&logo=windows&logoColor=white" alt="Tải Bộ Cài Windows" />
       </a>
       <br/><br/>
       <a href="https://github.com/hoangdiep99/DIPRecover/releases/latest">
-        <img src="https://img.shields.io/github/downloads/hoangdiep99/DIPRecover/latest/DIPRecover-Setup-v4.2.0.exe?style=for-the-badge&label=L%C6%B0%E1%BB%A3t%20T%E1%BA%A3i%20Windows&color=0284C7&displayAssetName=false" alt="Lượt tải Windows" />
+        <img src="https://img.shields.io/github/downloads/hoangdiep99/DIPRecover/latest/DIPRecover-Setup-v4.3.0.exe?style=for-the-badge&label=L%C6%B0%E1%BB%A3t%20T%E1%BA%A3i%20Windows&color=0284C7&displayAssetName=false" alt="Lượt tải Windows" />
       </a>
     </td>
     <td align="center" width="50%" valign="top">
